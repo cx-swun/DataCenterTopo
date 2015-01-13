@@ -1,6 +1,0 @@
-./pox.py samples.pretty_log log.level --DEBUG log --format="%(asctime)s:%(message)s" --file=pox.log,w forwarding.l2_multi openflow.discovery openflow.spanning_tree --no-flood --hold-down
-
-
-
-sudo mn --custom ~/mininet/custom/FatTree.py --topo fattree,3 --controller=remote,ip=127.0.0.1,port=6633
-
