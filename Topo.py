@@ -17,7 +17,6 @@ from mininet.node import Controller,Node
 
 import os          
 
-
 class Fat_tree( Topo ):
       """
       A fat tree topology built using k-port switches can support up to 
