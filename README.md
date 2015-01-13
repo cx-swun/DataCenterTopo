@@ -1,2 +1,2 @@
 # DataCenterTopo
-Creating Data Center topo like fat-tree bcube in mininet.
+Creating Data Center topos like fat-tree bcube in mininet.
