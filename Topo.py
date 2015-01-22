@@ -1,5 +1,5 @@
 """
-Data center topology example
+Data Center topology example
 
 Adding the 'topos' dict with a key/value pair to generate our newly defined
 topology.Enables each one to pass in '--topo=<key>' from the command line.
